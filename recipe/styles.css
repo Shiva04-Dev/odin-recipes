@@ -25,3 +25,30 @@ h1{
     font-size: auto;
     color: green;
 }
+
+h2{
+    color: yellowgreen;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+#description{
+    color: rgb(143, 44, 143);
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#description .described {
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
+.bullets{
+    color: blue;
+}
+
+#steps{
+    color: orangered;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
